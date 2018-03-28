@@ -1,3 +1,3 @@
-# KNN_Tutorial-cls-
+# KNN_Tutorial
 
-KNN example for classification
+KNN examples
